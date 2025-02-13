@@ -26,30 +26,15 @@ The fastest way to deploy the application is to click the **Deploy to Koyeb** bu
 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/CodeXBotz/File-Sharing-Bot&branch=koyeb&name=filesharingbot)
 
-
-#### Deploy in your VPS
-````bash
-git clone https://github.com/CodeXBotz/File-Sharing-Bot
-cd File-Sharing-Bot
-pip3 install -r requirements.txt
-# <Create config.py appropriately>
-python3 main.py
-````
-
 ### Admin Commands
 
 ```
-/start - start the bot or get posts
-
-/batch - create link for more than one posts
-
-/genlink - create link for one post
-
-/users - view bot statistics
-
-/broadcast - broadcast any messages to bot users
-
-/stats - checking your bot uptime
+start - start the bot or get posts
+batch - create link for more than one posts
+genlink - create link for one post
+users - view bot statistics
+broadcast - broadcast any messages to bot users
+stats - checking your bot uptime
 ```
 
 ### Variables
