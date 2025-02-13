@@ -11,22 +11,6 @@ I Guess This Will Be Usefull For Many People.....😇.
 - Can be deployed on heroku directly.
 - Protect Content to Prevent Forwarding
 - Auto-Delete Files After a Configurable Time
-
-## What’s Next
-
-These features are in the pipeline, and contributions from the community are welcome!
-
-- [x] **Channel Join Request**  
-  Implement a feature that prompts users to join a specified Telegram channel before accessing the bot's functionalities.
-
-
-### How to Contribute
-1. Check the [contribution guidelines](https://github.com/CodeXBotz/File-Sharing-Bot/blob/main/CONTRIBUTING.md) for detailed instructions.  
-2. Pick any feature and create a new issue or comment on an existing one.  
-3. Discuss your implementation plan with maintainers to align your contributions with project goals.  
-
-We encourage all developers to contribute ideas, report bugs, and share improvements. Together, we can make this project even better! 🚀
- 
  
 ### Setup
 
@@ -126,25 +110,10 @@ python3 main.py
 
 * `{uptime}` - Bot Uptime
 
-
-## Support   
-Join Our [Telegram Group](https://www.telegram.dog/codexbotzsupport) For Support/Assistance And Our [Channel](https://www.telegram.dog/codexbotz) For Updates.   
-   
-Report Bugs, Give Feature Requests There..   
-
 ### Credits
 
 - Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
-- Our Support Group Members
-
-### Licence
-[![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
-
-[FILE-SHARING-BOT](https://github.com/CodeXBotz/File-Sharing-Bot/) is Free Software: You can use, study share and improve it at your
-will. Specifically you can redistribute and/or modify it under the terms of the
-[GNU General Public License](https://www.gnu.org/licenses/gpl.html) as
-published by the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version. 
+- To me for nothing 
 
 ##
 
